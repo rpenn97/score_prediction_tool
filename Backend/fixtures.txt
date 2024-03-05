@@ -1,0 +1,54 @@
+-- 08/03/2024 - 11/03/2024
+-- England
+Manchester United v Everton
+Bournemouth v Sheffield United
+Crystal Palace v Luton
+Wolverhampton Wanderers v Fulham
+Arsenal v Brentford
+Aston Villa v Tottenham
+Brighton v Nottingham Forest
+West Ham v Burnley
+Liverpool v Manchester City
+Chelsea v Newcastle United
+-- France
+Nice v Montpellier
+Lorient v Lyon
+Lens v Brest
+Paris Saint Germain v Reims
+Le Havre v Toulouse
+Metz v Clermont Foot
+Strasbourg v Monaco
+Lille v Rennes
+Marseille v Nantes
+-- Germany
+VfB Stuttgart v Union Berlin
+Borussia M.Gladbach v FC Cologne
+Augsburg v FC Heidenheim
+Bayern Munich v Mainz 05
+RasenBallsport Leipzig v Darmstadt
+Werder Bremen v Borussia Dortmund
+Bochum v Freiburg
+Eintracht Frankfurt v Hoffenheim
+Bayer Leverkusen v Wolfsburg
+--Italy
+Napoli v Torino
+Cagliari v Salernitana
+Sassuolo v Frosinone
+Bologna v Inter
+Genoa v Monza
+Lecce v Verona
+AC Milan v Empoli
+Juventus v Atalanta
+Fiorentina v Roma
+Lazio v Udinese
+--Spain
+Barcelona v Mallorca
+Valencia v Getafe
+Cadiz v Atletico Madrid
+Granada v Real Sociedad
+Girona v Osasuna
+Alaves v Rayo Vallecano
+Las Palmas v Atheltic Club
+Real Madrid v Celta Vigo
+Real Betis v Villarreal
+Almeria v Sevilla
