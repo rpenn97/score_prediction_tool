@@ -22,3 +22,10 @@ sorted_unique_match = sorted(scoresheet_df["Team"].unique())
 selected_match = st.sidebar.selectbox('Match',sorted_unique_match)
 
 nation = sorted(scoresheet_df['Nation'].unique())
+selected_nation = st.sidebar.multiselect('Nation',nation,nation)
+
+scoresheet_df_filt = scoresheet_df[(scoresheet_df.Tm.isin(selected_nation)) & (scoresheet_df.Pos.isin(selected_match))]
+
+st.header('Predictions this week:')
+st.dataframe(scoresheet_df_filt)
+
