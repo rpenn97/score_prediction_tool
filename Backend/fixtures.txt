@@ -1,55 +1,50 @@
--- Date
--- 15/03/2024 - 18/03/2024
--- England
-Newcastle United v West Ham
-Bournemouth v Everton
-Chelsea v Burnley
-Nottingham Forest v Crystal Palace
-Sheffield United v Fulham
-Tottenham v Luton
-Aston Villa v Wolverhampton Wanderers
-Brentford v Manchester United
-Liverpool v Brighton
-Manchester City v Arsenal
--- France
-Lille v Lens
-Metz v Monaco
-Lyon v Reims
-Lorient v Brest
-Clermont Foot v Toulouse
-Le Havre v Montpellier
-Nice v Nantes
-Strasbourg v Rennes
-Marseille v Paris Saint Germain
--- Germany
-Bayer Leverkusen v Hoffenheim
-Borussia M.Gladbach v Freiburg
-Eintracht Frankfurt v Union Berlin
-RasenBallsport Leipzig v Mainz 05
-Werder Bremen v Wolfsburg
-Bayern Munich v Borussia Dortmund
-Augsburg v FC Cologne
-VfB Stuttgart v FC Heidenheim
-Bochum v Darmstadt
---Italy
-Napoli v Atalanta
-Genoa v Frosinone
-Torino v Monza
-Lazio v Juventus
-Fiorentina v AC Milan
-Bologna v Salernitana
-Cagliari v Verona
-Sassuolo v Udinese
-Lecce v Roma
-Inter v Empoli
---Spain
-Cadiz v Granada
-Getafe v Sevilla
-Almeria v Osasuna
-Valencia v Mallorca
-Barcelona v Las Palmas
-Celta Vigo v Rayo Vallecano
-Girona v Real Betis
-Alaves v Real Sociedad
-Real Madrid v Athletic Club
-Villarreal v Atletico Madrid
+matches
+Newcastle United v Everton
+Nottingham Forest v Fulham
+Bournemouth v Crystal Palace
+Burnley v Wolverhampton Wanderers
+West Ham United v Tottenham
+Arsenal v Luton
+Brentford v Brighton
+Manchester City v Aston Villa
+Liverpool v Sheffield United
+Chelsea v Manchester United
+Crystal Palace v Manchester City
+Aston Villa v Brentford
+Everton v Burnley
+Fulham v Newcastle United
+Luton v Bournemouth
+Wolverhampton Wanderers v West Ham United
+Brighton v Arsenal
+Manchester United v Liverpool
+Sheffield United v Chelsea
+Tottenham v Nottingham Forest
+Lille v Marseille
+Lens v Le Havre
+Paris Saint Germain v Clermont Foot
+Brest v Metz
+Montpellier v Lorient
+Reims v Nice
+Toulouse v Strasbourg
+Monaco v Rennes
+Nantes v Lyon
+Eintracht Frankfurt v Werder Bremen
+FC Cologne v Bochum
+Freiburg v RasenBallsport Leipzig
+Mainz 05 v Darmstadt
+FC Heidenheim v Bayern Munich
+Union Berlin v Bayer Leverkusen
+Borussia Dortmund v VfB Stuttgart
+Hoffenheim v Augsburg
+Wolfsburg v Borussia M.Gladbach
+Salernitana v Sassuolo
+AC Milan v Lecce
+Roma v Lazio
+Empoli v Torino
+Frosinone v Bologna
+Monza v Napoli
+Cagliari v Atalanta
+Verona v Genoa
+Juventus v Fiorentina
+Udinese v Inter
+Granada v Valencia
