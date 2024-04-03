@@ -1,9 +1,4 @@
 matches
-Newcastle United v Everton
-Nottingham Forest v Fulham
-Bournemouth v Crystal Palace
-Burnley v Wolverhampton Wanderers
-West Ham United v Tottenham
 Arsenal v Luton
 Brentford v Brighton
 Manchester City v Aston Villa
