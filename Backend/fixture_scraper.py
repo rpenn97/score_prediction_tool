@@ -43,7 +43,7 @@ match_list = fixture_list(league_list)
 def name_converter(match_list):
     match_list_upd = []
 
-    epl_namechange_dict = {"Luton Town":"Luton", "Manchester Utd":"Manchester United", "Newcastle Utd":"Newcastle United", "Nottm Forest":"Nottingham Forest", "Sheffield Utd":"Sheffield United", "West Ham Utd":"West Ham United", "Wolverhampton":"Wolverhampton Wanderers"}
+    epl_namechange_dict = {"Luton Town":"Luton", "Manchester Utd":"Manchester United", "Newcastle Utd":"Newcastle United", "Nottm Forest":"Nottingham Forest", "Sheffield Utd":"Sheffield United", "West Ham Utd":"West Ham", "Wolverhampton":"Wolverhampton Wanderers"}
     ligue1_namechange_dict = {"Clermont":"Clermont Foot", "Paris SG":"Paris Saint Germain"}
     bundesliga_namechange_dict = {"FC Augsburg":"Augsburg", "Leverkusen":"Bayer Leverkusen", "Dortmund":"Borussia Dortmund", "Monchengladbach":"Borussia M.Gladbach", "E. Frankfurt":"Eintracht Frankfurt", "FC Koln":"FC Cologne", "Heidenheim":"FC Heidenheim", "FSV Mainz":"Mainz 05", "RB Leipzig":"RasenBallsport Leipzig", "Stuttgart":"VfB Stuttgart"}
     seriea_namechange_dict = {"Inter Milan":"Inter", "AS Roma":"Roma", "Hellas Verona":"Verona"}
