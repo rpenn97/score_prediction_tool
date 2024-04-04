@@ -32,5 +32,5 @@ jobs:
 
       - id: jupyter
         name: Jupyter Notebook Execution
-        run: jupyter execute .github/workflows/main.ipynb
+        run: jupyter execute main.ipynb
         shell: bash
