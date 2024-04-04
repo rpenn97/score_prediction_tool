@@ -1,8 +1,8 @@
-name: run main.py
+name: run run_main.ipynb
 
 on:
   schedule:
-    - cron: '0 6 * * 5' # At 06:00 on Friday
+    - cron: '0 12 * * 4' # At 06:00 on Friday
 
 jobs:
   build:
@@ -22,4 +22,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script # run main.py
-        run: python main.py
+        run: python run_main.ipynb
