@@ -1,4 +1,4 @@
-name: run run_main.ipynb
+name: run main
 
 on:
   schedule:
