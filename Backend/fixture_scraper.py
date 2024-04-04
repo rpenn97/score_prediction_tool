@@ -72,4 +72,4 @@ def name_converter(match_list):
 match_list_updated = name_converter(match_list)
 
 df = pd.DataFrame({'matches': match_list_updated})
-df.to_csv('../Frontend/fixtures.txt',mode='wb',index=False)
+df.to_csv('../score_prediction_tool/Frontend/fixtures.txt',mode='wb',index=False)

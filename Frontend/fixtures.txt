@@ -1,7 +1,4 @@
 matches
-Arsenal v Luton
-Brentford v Brighton
-Manchester City v Aston Villa
 Liverpool v Sheffield United
 Chelsea v Manchester United
 Crystal Palace v Manchester City
