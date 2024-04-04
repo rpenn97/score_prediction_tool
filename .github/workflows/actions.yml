@@ -6,7 +6,7 @@ name: Jupyter script
 on:
   workflow_dispatch:
   # schedule:
-  #   - cron: '45 13 * * 4' # At 00:00 on Monday
+  # - cron: '20 18 * * 4' # At 00:00 on Thursday
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

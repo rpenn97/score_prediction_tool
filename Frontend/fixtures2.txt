@@ -1,6 +1,6 @@
 matches
 Liverpool v Sheffield United
-Chelsea v Manchester United7
+Chelsea v Manchester United
 Crystal Palace v Manchester City
 Aston Villa v Brentford
 Everton v Burnley
@@ -8,7 +8,7 @@ Fulham v Newcastle United
 Luton v Bournemouth
 Wolverhampton Wanderers v West Ham
 Brighton v Arsenal
-Manchester United7 v Liverpool
+Manchester United v Liverpool
 Sheffield United v Chelsea
 Tottenham v Nottingham Forest
 Lille v Marseille
