@@ -1,6 +1,4 @@
 matches
-Liverpool v Sheffield United
-Chelsea v Manchester United
 Crystal Palace v Manchester City
 Aston Villa v Brentford
 Everton v Burnley
@@ -39,4 +37,3 @@ Cagliari v Atalanta
 Verona v Genoa
 Juventus v Fiorentina
 Udinese v Inter
-Granada v Valencia
