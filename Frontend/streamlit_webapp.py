@@ -24,14 +24,14 @@ minFGH = scoresheet_df['First Goal Home'].min()
 maxFGH = scoresheet_df['First Goal Home'].max()
 minFGA = scoresheet_df['First Goal Away'].min()
 maxFGA = scoresheet_df['First Goal Away'].max()
-btts_slider = st.sidebar.slider('BTTS',min_value=minBTTS, max_value=maxBTTS, value=[minBTTS, maxBTTS])
+BTTS_slider = st.sidebar.slider('BTTS',min_value=minBTTS, max_value=maxBTTS, value=[minBTTS, maxBTTS])
 FGH_slider = st.sidebar.slider('First Goal Home',min_value=minFGH, max_value=maxFGH, value=[minFGH, maxFGH])
 FGA_slider = st.sidebar.slider('First Goal Away',min_value=minFGA, max_value=maxFGA, value=[minFGA, maxFGA])
 
 nation = sorted(scoresheet_df['Nation'].unique())
 selected_nation = st.sidebar.multiselect('Nation',nation,nation)
 
-scoresheet_df_filt = scoresheet_df[(scoresheet_df.Nation.isin(selected_nation)) & (scoresheet_df["First Goal Home"] >= FGH_slider[0]) & (scoresheet_df["First Goal Home"] <= FGH_slider[1]) & (scoresheet_df["First Goal Away"] >= FGA_slider[0]) & (scoresheet_df["First Goal Away"] <= FGA_slider[1])].copy()
+scoresheet_df_filt = scoresheet_df[(scoresheet_df.Nation.isin(selected_nation)) & (scoresheet_df["BTTS"] >= BTTS_slider[0]) & (scoresheet_df["BTTS"] <= BTTS_slider[1]) & (scoresheet_df["First Goal Home"] >= FGH_slider[0]) & (scoresheet_df["First Goal Home"] <= FGH_slider[1]) & (scoresheet_df["First Goal Away"] >= FGA_slider[0]) & (scoresheet_df["First Goal Away"] <= FGA_slider[1])].copy()
 
 st.header('Predictions this week:')
 st.dataframe(scoresheet_df_filt)
