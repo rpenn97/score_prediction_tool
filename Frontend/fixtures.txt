@@ -1,39 +1,59 @@
 matches
-Crystal Palace v Manchester City
-Aston Villa v Brentford
-Everton v Burnley
-Fulham v Newcastle United
-Luton v Bournemouth
-Wolverhampton Wanderers v West Ham
-Brighton v Arsenal
-Manchester United v Liverpool
-Sheffield United v Chelsea
-Tottenham v Nottingham Forest
-Lille v Marseille
-Lens v Le Havre
-Paris Saint Germain v Clermont Foot
-Brest v Metz
-Montpellier v Lorient
-Reims v Nice
-Toulouse v Strasbourg
-Monaco v Rennes
-Nantes v Lyon
-Eintracht Frankfurt v Werder Bremen
-FC Cologne v Bochum
-Freiburg v RasenBallsport Leipzig
-Mainz 05 v Darmstadt
-FC Heidenheim v Bayern Munich
-Union Berlin v Bayer Leverkusen
-Borussia Dortmund v VfB Stuttgart
-Hoffenheim v Augsburg
-Wolfsburg v Borussia M.Gladbach
-Salernitana v Sassuolo
-AC Milan v Lecce
-Roma v Lazio
-Empoli v Torino
-Frosinone v Bologna
-Monza v Napoli
-Cagliari v Atalanta
-Verona v Genoa
-Juventus v Fiorentina
-Udinese v Inter
+Arsenal v Chelsea
+Wolverhampton Wanderers v Bournemouth
+Crystal Palace v Newcastle United
+Everton v Liverpool
+Manchester United v Sheffield United
+Brighton v Manchester City
+West Ham v Liverpool
+Fulham v Crystal Palace
+Manchester United v Burnley
+Newcastle United v Sheffield United
+Wolverhampton Wanderers v Luton
+Everton v Brentford
+Aston Villa v Chelsea
+Bournemouth v Brighton
+Tottenham v Arsenal
+Nottingham Forest v Manchester City
+Lorient v Paris Saint Germain
+Marseille v Nice
+Monaco v Lille
+Montpellier v Nantes
+Paris Saint Germain v Le Havre
+Metz v Lille
+Clermont Foot v Reims
+Lorient v Toulouse
+Strasbourg v Nice
+Rennes v Brest
+Lyon v Monaco
+Marseille v Lens
+Bochum v Hoffenheim
+Bayern Munich v Eintracht Frankfurt
+Augsburg v Werder Bremen
+Freiburg v Wolfsburg
+RasenBallsport Leipzig v Borussia Dortmund
+Bayer Leverkusen v VfB Stuttgart
+Borussia M.Gladbach v Union Berlin
+Mainz 05 v FC Cologne
+Darmstadt v FC Heidenheim
+Roma v Bologna
+AC Milan v Inter
+Frosinone v Salernitana
+Inter v Torino
+Lecce v Monza
+Juventus v AC Milan
+Lazio v Verona
+Bologna v Udinese
+Atalanta v Empoli
+Napoli v Roma
+Fiorentina v Sassuolo
+Sevilla v Mallorca
+Real Sociedad v Real Madrid
+Las Palmas v Girona
+Almeria v Getafe
+Alaves v Celta Vigo
+Atletico Madrid v Athletic Club
+Cadiz v Mallorca
+Granada v Osasuna
+Villarreal v Rayo Vallecano
+Real Betis v Sevilla
