@@ -1,10 +1,4 @@
 matches
-Arsenal v Chelsea
-Wolverhampton Wanderers v Bournemouth
-Crystal Palace v Newcastle United
-Everton v Liverpool
-Manchester United v Sheffield United
-Brighton v Manchester City
 West Ham v Liverpool
 Fulham v Crystal Palace
 Manchester United v Burnley
@@ -15,9 +9,6 @@ Aston Villa v Chelsea
 Bournemouth v Brighton
 Tottenham v Arsenal
 Nottingham Forest v Manchester City
-Lorient v Paris Saint Germain
-Marseille v Nice
-Monaco v Lille
 Montpellier v Nantes
 Paris Saint Germain v Le Havre
 Metz v Lille
@@ -36,7 +27,6 @@ Bayer Leverkusen v VfB Stuttgart
 Borussia M.Gladbach v Union Berlin
 Mainz 05 v FC Cologne
 Darmstadt v FC Heidenheim
-AC Milan v Inter
 Frosinone v Salernitana
 Inter v Torino
 Lecce v Monza
@@ -46,7 +36,7 @@ Bologna v Udinese
 Atalanta v Empoli
 Napoli v Roma
 Fiorentina v Sassuolo
-Sevilla v Mallorca
+Genoa v Cagliari
 Real Sociedad v Real Madrid
 Las Palmas v Girona
 Almeria v Getafe
@@ -56,3 +46,4 @@ Cadiz v Mallorca
 Granada v Osasuna
 Villarreal v Rayo Vallecano
 Real Betis v Sevilla
+Barcelona v Valencia
