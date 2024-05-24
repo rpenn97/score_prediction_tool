@@ -1,49 +1,20 @@
 matches
-Arsenal v Everton
-Brentford v Newcastle United
-Brighton v Manchester United
-Burnley v Nottingham Forest
-Chelsea v Bournemouth
-Crystal Palace v Aston Villa
-Liverpool v Wolverhampton Wanderers
-Luton v Fulham
-Manchester City v West Ham
-Sheffield United v Tottenham
-Le Havre v Marseille
-Lens v Montpellier
-Lille v Nice
-Lorient v Clermont Foot
-Lyon v Strasbourg
-Metz v Paris Saint Germain
-Monaco v Nantes
-Reims v Rennes
-Toulouse v Brest
-Borussia Dortmund v Darmstadt
-Eintracht Frankfurt v RasenBallsport Leipzig
-FC Heidenheim v FC Cologne
-Hoffenheim v Bayern Munich
-Bayer Leverkusen v Augsburg
-VfB Stuttgart v Borussia M.Gladbach
-Union Berlin v Freiburg
-Werder Bremen v Bochum
-Wolfsburg v Mainz 05
-Fiorentina v Napoli
-Lecce v Atalanta
-Torino v AC Milan
-Sassuolo v Cagliari
-Monza v Frosinone
-Udinese v Empoli
-Inter v Lazio
-Roma v Genoa
-Salernitana v Verona
-Bologna v Juventus
-Alaves v Getafe
-Athletic Club v Sevilla
-Atletico Madrid v Osasuna
-Cadiz v Las Palmas
-Barcelona v Rayo Vallecano
-Granada v Celta Vigo
-Mallorca v Almeria
-Real Betis v Real Sociedad
-Valencia v Girona
-Villarreal v Real Madrid
+Genoa v Bologna
+Juventus v Monza
+AC Milan v Salernitana
+Atalanta v Torino
+Napoli v Lecce
+Empoli v Roma
+Frosinone v Udinese
+Verona v Inter
+Lazio v Sassuolo
+Girona v Granada
+Osasuna v Villarreal
+Real Sociedad v Atletico Madrid
+Almeria v Cadiz
+Rayo Vallecano v Athletic Club
+Real Madrid v Real Betis
+Getafe v Mallorca
+Celta Vigo v Valencia
+Las Palmas v Alaves
+Sevilla v Barcelona
